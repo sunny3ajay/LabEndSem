@@ -2,7 +2,9 @@
   "name": "hospital-frontend",
   "private": true,
   "version": "0.0.0",
+  "homepage" : "/LabEndSem/",
   "type": "module",
+
   "scripts": {
     "dev": "vite",
     "build": "vite build",
